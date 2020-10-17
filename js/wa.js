@@ -3,7 +3,7 @@ $(document).on('click','.send_form', function(){
     
     /* Whatsapp Settings */
     var walink = 'https://web.whatsapp.com/send',
-        phone = '6285155272347',
+        phone = '628561157147',
         walink2 = 'Halo Bocil_inc'+'%0A'+'*Party Planner*',
         text_yes = 'Terkirim.',
         text_no = 'Isi semua Formulir lalu klik Send.';
